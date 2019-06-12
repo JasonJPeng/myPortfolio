@@ -32,7 +32,8 @@ body {
 }
 
 #banner {
-    height:80px;
+    /* Hard coded height diable the pull down from the hambegger  */
+    /* height:80px; */
     
     padding:0px;
 }
@@ -96,7 +97,7 @@ h1 {
     color: #ffffff;
     font-family: Georgia, Times, 'Times New Roman', serif;
     
-    margin:0px;
+    margin:-10px;  /* cheating to adjust the brand */
     padding:15px 30px 0px 20px;
 
  /* The following lines cause the hamberger problem */   
