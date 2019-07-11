@@ -141,3 +141,8 @@ img.myProject {
     width:400px;
     height:400px;
 }
+
+.skill {
+    width : 400px;
+    float: left;
+}
